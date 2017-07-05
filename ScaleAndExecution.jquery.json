@@ -1,0 +1,26 @@
+{
+  "name": "ScaleAndExecution",
+  "title": "Scaleandexecution",
+  "description": "Blockchain Executor for Code4Nagoya",
+  "version": "0.1.0",
+  "homepage": "https://github.com/code4nagoya/ScaleAndExecution",
+  "author": {
+    "name": "kouichi ume",
+    "email": "kouichiume@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code4nagoya/ScaleAndExecution.git"
+  },
+  "bugs": "https://github.com/code4nagoya/ScaleAndExecution/issues",
+  "licenses": [
+    {
+      "type": "Copyright",
+      "url": "https://github.com/code4nagoya/ScaleAndExecution/blob/master/LICENSE-Copyright"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
